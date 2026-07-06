@@ -1,0 +1,19 @@
+chave,mensagem
+menu,"1 - Cadastrar Produto
+2 - Listar Produtos
+3 - Comprar
+4 - Sair
+
+Escolha uma opcao ou me diga o que deseja fazer!"
+sair,Valeu pela visita! Ate a proxima.
+cpf_invalido,CPF invalido! Confere os digitos e manda de novo.
+nao_entendi,"Hmm, nao entendi! Voce quis dizer o que?"
+id_produto,Bora cadastrar! Me manda o ID do produto.
+id_duplicado,Esse ID ja esta em uso por outro produto! Manda um ID diferente:
+nome_produto,Boa! Agora o nome do produto.
+tamanho_produto,"Qual o tamanho? (PP, P, M, G, GG, XG, XGG)"
+tamanho_invalido,"Tamanho invalido! Usa: PP, P, M, G, GG, XG, XGG."
+cor_produto,Qual a cor?
+quantidade_produto,Qual a quantidade em estoque?
+quantidade_nao_numerica,Quantidade precisa ser numero! Tenta de novo:
+quantidade_invalida,Quantidade tem que ser maior que zero!
